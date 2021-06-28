@@ -19,7 +19,7 @@ const Login = styled.a`
 
 const REACT_APP_CLIENT_ID='69309b51593b49968e777b03b4be2909';
 const REACT_APP_AUTHORIZE_URL='https://accounts.spotify.com/authorize?';
-const REACT_APP_REDIRECT_URL='https://bonniekang.github.io/dualipa/#/';
+const REACT_APP_REDIRECT_URL='https://bonniekang.github.io/dualipa/';
 const scopes = [
     "user-read-currently-playing",
     "user-read-playback-state",
