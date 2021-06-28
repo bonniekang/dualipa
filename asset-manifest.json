@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/dualipa/static/js/main.88adbff6.chunk.js",
-    "main.js.map": "/dualipa/static/js/main.88adbff6.chunk.js.map",
+    "main.js": "/dualipa/static/js/main.df33aaf4.chunk.js",
+    "main.js.map": "/dualipa/static/js/main.df33aaf4.chunk.js.map",
     "runtime-main.js": "/dualipa/static/js/runtime-main.54e7fc5a.js",
     "runtime-main.js.map": "/dualipa/static/js/runtime-main.54e7fc5a.js.map",
     "static/js/2.ebf4a293.chunk.js": "/dualipa/static/js/2.ebf4a293.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.54e7fc5a.js",
     "static/js/2.ebf4a293.chunk.js",
-    "static/js/main.88adbff6.chunk.js"
+    "static/js/main.df33aaf4.chunk.js"
   ]
 }
